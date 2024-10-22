@@ -8,6 +8,20 @@ Repository structure:
 
 **Course**
 1. **part0**: Exercises from Part 0.
+   <details open>
+   <summary>Exercises</summary>
+
+   | Number | Description |
+   |-----:|-----------|
+   |[Ex_1](/part0/Ex_1)| HTML basic concepts|
+   |[Ex_2](/part0/Ex_2)| CSS basic concepts|
+   |[Ex_3](/part0/Ex_3)| HTML FORM basic concepts|
+   |[Ex_4](/part0/Ex_4)| New note sequence diagram|
+   |[Ex_5](/part0/Ex_5)| SPA sequence diagram|
+   |[Ex_6](/part0/Ex_6)| New note SPA sequence diagram|
+  
+   </details>
+
 2. **part1**: Part 1 exercises, such as:
    - courseinfo
    - unicafe
