@@ -9,12 +9,12 @@ Repository structure:
 **Course**
 1. **part0**: Exercises from Part 0.
 2. **part1**: Part 1 exercises, such as:
-   - Courseinfo
-   - Unicafe
-   - Anecdotes
+   - courseinfo
+   - unicafe
+   - anecdotes
 3. **part2**: Part 2 exercises, including:
-   - Courseinfo
-   - Phonebook
-   - Counstriescopy
+   - courseinfo
+   - phonebook
+   - counstriescopy
 
 Each directory contains the files and code for the exercises requested in the course.
